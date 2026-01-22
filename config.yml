@@ -1,2 +1,9 @@
-name: Profisee Doc Test
-theme: minima
+title: Profisee Wiki Test
+description: a test for the Profisee wiki
+theme: just-the-docs
+
+# Enable search
+search_enabled: true
+
+# Navigation structure
+nav_sort: case_insensitive
