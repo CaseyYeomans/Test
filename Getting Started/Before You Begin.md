@@ -1,3 +1,9 @@
+---
+layout: default
+title: Page Title
+nav_order: 1
+---
+
 # Before You Begin
 
 To use Profisee Platform(R) you need:
